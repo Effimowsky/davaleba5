@@ -1,0 +1,42 @@
+/*reset css*/
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+header {
+	background-color: #0020F4;
+}
+a {
+	text-decoration: none;
+	color: #FFFFFF;
+	font-size: 16px; 
+}
+ul {
+	list-style: none;
+}
+nav	{
+	display: inline-block;
+	vertical-align: middle;
+}
+.logo {
+	width: 115px;
+	height: 65px;
+	margin-left: 240px;
+	margin-top: 40px;
+}
+.logo-parent {
+	vertical-align: middle;
+}
+.list {
+	margin-top: 37px;
+	margin-right: 43px;
+	margin-left: 488px;
+	display: inline-block;
+}
+.box {
+	background-color: #FFFFFF;
+	border-radius: 28px;
+	color: #171717;
+	display: inline-block;
+}
