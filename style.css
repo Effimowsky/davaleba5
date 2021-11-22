@@ -125,3 +125,16 @@ nav	{
 	margin-left: 30px;
 	margin-top: 92px;
 }
+footer {
+	background-color: #0A22F4;
+	display: inline-flex;
+}
+.other-info span {
+	font-size: 13px;
+	color: #FFFFFF;
+	margin-left: 240px;
+	margin-top: 84px;
+}
+.other-info	img {
+	margin-top: 84px;
+}
